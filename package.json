@@ -1,6 +1,6 @@
 {
   "name": "pipe-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a browser compative pipeline function",
   "main": "index.js",
   "repository": {

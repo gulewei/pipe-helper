@@ -1,5 +1,5 @@
 {
-  "name": "pipeline",
+  "name": "pipe-helper",
   "version": "1.0.0",
   "description": "a browser compative pipeline function",
   "main": "index.js",
